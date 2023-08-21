@@ -1,0 +1,13 @@
+The graphs might be small in your system 
+and that is because of the different 
+screen resolution of my machine and the IDE I used(VSCode). 
+
+I noticed them after I rendered the project and 
+saved all the graphs. 
+
+
+PS: (In order to change the size of graphs, I had to re-run
+all the notebooks. But the training time was far long.)
+
+Thank you for your consideration. 
+

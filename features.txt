@@ -1,0 +1,95 @@
+Diabetes unique values: 
+[0. 2. 1.]
+0 = no diabetes 1 = prediabetes 2 = diabetes
+
+HighBP unique values: 
+[1. 0.]
+0 = no high BP 1 = high BP
+
+HighChol unique values: 
+[1. 0.]
+0 = no high cholesterol 1 = high cholesterol
+
+CholCheck unique values: 
+[1. 0.]
+0 = no cholesterol check in 5 years 1 = yes cholesterol check in 5 years
+
+BMI unique values: 
+[40. 25. 28. 27. 24. 30. 34. 26. 33. 21. 23. 22. 38. 32. 37. 31. 29. 20.
+ 35. 45. 39. 19. 47. 18. 36. 43. 55. 49. 42. 17. 16. 41. 44. 50. 59. 48.
+ 52. 46. 54. 57. 53. 14. 15. 51. 58. 63. 61. 56. 74. 62. 64. 66. 73. 85.
+ 60. 67. 65. 70. 82. 79. 92. 68. 72. 88. 96. 13. 81. 71. 75. 12. 77. 69.
+ 76. 87. 89. 84. 95. 98. 91. 86. 83. 80. 90. 78.]
+Body Max Index
+
+Smoker unique values: 
+[1. 0.]
+Have you smoked at least 100 cigarettes in your entire life? [Note: 5 packs = 100 cigarettes] 0 = no 1 = yes
+
+Stroke unique values: 
+[0. 1.]
+(Ever told) you had a stroke. 0 = no 1 = yes
+
+HeartDiseaseorAttack unique values: 
+[0. 1.]
+coronary heart disease (CHD) or myocardial infarction (MI) 0 = no 1 = yes
+
+PhysActivity unique values: 
+[0. 1.]
+physical activity in past 30 days - not including job 0 = no 1 = yes
+
+Fruits unique values: 
+[0. 1.]
+Consume Fruit 1 or more times per day 0 = no 1 = yes 
+
+Veggies unique values: 
+[1. 0.]
+Consume Veggies 1 or more times per day 0 = no 1 = yes 
+
+HvyAlcoholConsump unique values: 
+[0. 1.]
+Heavy Alcohol Consumption 0 = no 1 = yes 
+
+AnyHealthcare unique values: 
+[1. 0.]
+Anyy Health Care 0 = no 1 = yes 
+
+NoDocbcCost unique values: 
+[0. 1.]
+No Doctor Becaus Of Cost 0 = no 1 = yes 
+
+GenHlth unique values: 
+[5. 3. 2. 4. 1.]
+Would you say that in general your health is: 1: Excellent, 2: Very good, 3: Good, 4: Fair, 5: Poor
+
+MentHlth unique values: 
+[18.  0. 30.  3.  5. 15. 10.  6. 20.  2. 25.  1.  4.  7.  8. 21. 14. 26.
+ 29. 16. 28. 11. 12. 24. 17. 13. 27. 19. 22.  9. 23.]
+ Now thinking about your mental health, which includes stress, depression, 
+ and problems with emotions, for how many days during the past 30 days was 
+ your mental health not good?
+
+PhysHlth unique values: 
+[15.  0. 30.  2. 14. 28.  7. 20.  3. 10.  1.  5. 17.  4. 19.  6. 12. 25.
+ 27. 21. 22.  8. 29. 24.  9. 16. 18. 23. 13. 26. 11.]
+Physical Health 
+
+DiffWalk unique values: 
+[1. 0.]
+Difficulty of Walking
+
+Sex unique values: 
+[0. 1.]
+???
+
+Age unique values: 
+[ 9.  7. 11. 10.  8. 13.  4.  6.  2. 12.  5.  1.  3.]
+???
+
+Education unique values: 
+[4. 6. 3. 5. 2. 1.]
+???
+
+Income unique values: 
+[3. 1. 8. 6. 4. 7. 2. 5.]
+???
